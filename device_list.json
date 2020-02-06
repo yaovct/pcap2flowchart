@@ -1,0 +1,5 @@
+[{"id":1,"corename":"Access-A","chinesename":"Access-A","sitename":"TPE","devicename":"asterisk","alias":null,"ip_addr":"10.0.5.58","note":null,"group":"global"},
+ {"id":2,"corename":"Edge-A","chinesename":"Edge-A","sitename":"TPE","devicename":"IMS-A","alias":null,"ip_addr":"192.168.255.186","note":null,"group":"global"},
+ {"id":3,"corename":"Core-A","chinesename":"Core-A","sitename":"TYFO","devicename":"P-CSCF","alias":null,"ip_addr":"42.72.21.154","note":null,"group":"global"},
+ {"id":4,"corename":"Core-A","chinesename":"Core-A","sitename":"TYFO","devicename":"S-CSCF","alias":null,"ip_addr":"60.248.30.85","note":null,"group":"global"},
+ {"id":5,"corename":"Core-B","chinesename":"Edge-B","sitename":"TYFO","devicename":"IMS-B","alias":null,"ip_addr":"192.168.255.213","note":null,"group":"global"}]
